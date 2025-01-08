@@ -164,9 +164,8 @@ button,input{
     border-radius: 50%;
     width: 30%;
     height: 30%;
-    float: right;
-  top:5%;
-  right:5%;
+    top:5%;
+    right:5%;
 
 }
 div.home__data{
