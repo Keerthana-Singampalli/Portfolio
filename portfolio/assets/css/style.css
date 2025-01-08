@@ -163,10 +163,9 @@ button,input{
 .home__img{
     border-radius: 50%;
     position:absloute;
-    width: 30%;
+    width: 50%;
     height: 30%;
-    float:left;
-    left:25%;
+    float:right;
     
 
 }
