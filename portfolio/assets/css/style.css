@@ -165,6 +165,8 @@ button,input{
     width: 30%;
     height: 30%;
     float: right;
+  top:5%;
+  right:5%;
 
 }
 div.home__data{
