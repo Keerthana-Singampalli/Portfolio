@@ -162,6 +162,7 @@ button,input{
 }
 .home__img{
     border-radius: 50%;
+    position:relative;
     width: 30%;
     height: 30%;
     float:left;
