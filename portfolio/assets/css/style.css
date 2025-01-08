@@ -162,7 +162,6 @@ button,input{
 }
 .home__img{
     border-radius: 50%;
-    position:absloute;
     width: 50%;
     height: 30%;
     float:right;
